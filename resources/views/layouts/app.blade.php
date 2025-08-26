@@ -18,7 +18,7 @@
             width: 100%;
             border-radius: 8px;
         }
-
+        
         .location.card {
             transition: transform 0.5s;
         }
